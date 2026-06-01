@@ -1,0 +1,9 @@
+ticket_text,category,priority
+I was charged twice,Billing,High
+Cannot reset password,Account Access,Medium
+Video won't load,Technical Issue,Low
+Refund for cancelled order,Billing,High
+Profile picture not updating,Technical Issue,Low
+Account locked after login attempts,Account Access,High
+Payment method declined,Billing,Medium
+Feature request for dark mode,Technical Issue,Low
