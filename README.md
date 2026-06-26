@@ -2,6 +2,18 @@
 
 An AI-powered machine learning application that automatically classifies customer support tickets and predicts their priority, helping support teams respond more efficiently.
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Orange)
+
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
+
+![License](https://img.shields.io/badge/License-MIT-red)
+
+
+
 ## 🚀 Features
 
 - Automatic support ticket classification
@@ -32,18 +44,15 @@ FUTURE_ML_02/
 └── README.md
 ```
 
-## 📸 Screenshots
+## Screenshots
 
 ### Home Page
-
 ![Home](screenshots/home.png)
 
 ### Prediction
-
 ![Prediction](screenshots/prediction.png)
 
 ### Output
-
 ![Output](screenshots/output.png)
 
 ## ⚙️ Installation
